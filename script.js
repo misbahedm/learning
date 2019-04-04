@@ -1,15 +1,12 @@
 function myFunction() {
-    var a = 5;
-    var b = 10;
-    var c = 20;
-    var d = a + b + c;
-    alert("the value of d is: " + d);
+
+var a = 100;
+var b = 50;
+var result = a*b;
+alert(result); /*alert*/
 
 }
 
-
-myFunction();
-myFunction();
 myFunction();
 myFunction();
 myFunction();
